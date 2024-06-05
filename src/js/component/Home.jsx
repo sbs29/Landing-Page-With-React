@@ -1,9 +1,9 @@
 import React from "react";
 
-import Navbar from "./navbar";
-import Card from "./card"
-import Jumbotron from "./jumbotron";
-import Footer from "./footer";
+import Navbar from "./Navbar";
+import Card from "./Card"
+import Jumbotron from "./Jumbotron";
+import Footer from "./Footer";
 import "../../styles/index.css";
 
 //create your first component
