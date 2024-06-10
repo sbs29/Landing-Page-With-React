@@ -14,10 +14,10 @@ const Home = () => {
 			<div className="container" >
 				<Jumbotron />
 				<div className="card-group cards">
-					<Card />
-					<Card />
-					<Card />
-					<Card />
+					<Card title="First Card" />
+					<Card title="Second Card" />
+					<Card title="Third Card" />
+					<Card title="Fourth Card" />
 				</div>
 			</div>
 			<Footer />

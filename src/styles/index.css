@@ -39,3 +39,7 @@
     flex-direction: column;
     justify-content: end;
 }
+
+.navbar-collapse {
+    justify-content: flex-end !important;
+}
